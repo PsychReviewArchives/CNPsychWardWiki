@@ -8,10 +8,13 @@ hero:
   tagline: 勿忘我
   actions:
     - theme: brand
+      text: 文档
+      link: /Wiki/
+    - theme: alt
       text: 关于
       link: /About
     - theme: alt
-      text: 文档
-      link: /Wiki/
+      text: 口述史项目
+      link: https://oralhistory.psychreview.su/
 ---
 

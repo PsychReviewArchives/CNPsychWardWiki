@@ -8,9 +8,12 @@ hero:
   tagline: Forget me not
   actions:
     - theme: brand
+      text: Wiki
+      link: /en/Wiki/
+    - theme: alt
       text: About
       link: /en/About
     - theme: alt
-      text: Wiki
-      link: /en/Wiki/
+      text: Project Oral History
+      link: https://oralhistory.psychreview.su/
 ---
