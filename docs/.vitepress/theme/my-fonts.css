@@ -1,13 +1,13 @@
 @font-face {
     font-family: "Cantarell-WebFont";
     font-display: swap;
-    src: url("https://psychreviewarchives.github.io/WebFont/Cantarell-VF.otf") format("opentype-variations");
+    src: url("https://webfont.psychreview.su/Cantarell-VF.otf") format("opentype-variations");
 }
 
 @font-face {
     font-family: DroidSansMono-WebFont;
     font-display: swap;
-    src: url("https://psychreviewarchives.github.io/WebFont/DroidSansMono.ttf");
+    src: url("https://webfont.psychreview.su/DroidSansMono.ttf");
 }
 
 :root {
