@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "CN Psych Ward Wiki",
   description: "Quis custodiet ipsos custodes?",
@@ -17,7 +16,17 @@ export default defineConfig({
   },
 
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+
+    docFooter: {
+      prev: false,
+      next: false
+    },
+
+    footer: {
+      message: '由于各受访者的背景不同，我们强烈建议您在其他平台上<strong>不要引用全部内容</strong>。<br>Due to the background of our various interviewees, we urge you <strong>not to cite our content in whole</strong> to other platforms.',
+      copyright: 'Copyright © 2025 <a href="https://wiki.psychreview.su">CN Psych Ward Wiki</a>. All rights reserved.'
+    },
+    
     search: {
       provider: 'local'
     },
