@@ -34,7 +34,6 @@ export default defineConfig({
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/About' },
       { text: 'Wiki', link: 'Wiki'}
     ],
 
@@ -75,7 +74,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/PsychReviewArchives' }
+      { icon: 'github', link: 'https://github.com/PsychReviewArchives/CNPsychWardWiki' }
     ]
   }
 })

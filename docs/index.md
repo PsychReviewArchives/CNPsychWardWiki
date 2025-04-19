@@ -11,9 +11,6 @@ hero:
       text: 文档
       link: /Wiki/
     - theme: alt
-      text: 关于
-      link: /About
-    - theme: alt
       text: 口述史项目
       link: https://archives.psychreview.su/
 ---
