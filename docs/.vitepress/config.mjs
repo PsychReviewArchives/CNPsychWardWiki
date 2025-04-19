@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "CN Psych Ward Wiki",
   description: "Quis custodiet ipsos custodes?",
+  lastUpdated: true,
 
   locales: {
     root: {
