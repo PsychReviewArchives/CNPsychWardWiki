@@ -15,6 +15,6 @@ hero:
       link: /About
     - theme: alt
       text: 口述史项目
-      link: https://oralhistory.psychreview.su/
+      link: https://archives.psychreview.su/
 ---
 
