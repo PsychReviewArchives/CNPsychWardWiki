@@ -25,7 +25,7 @@ export default defineConfig({
 
     footer: {
       message: '由于各受访者的背景不同且经历敏感，我们强烈建议您在其他平台上引用前咨询我们。<br>Due to the delicate and various backgrounds of our interviewees, we urge you to consult us before citing any content.',
-      copyright: 'Copyright © 2025 <a href="https://wiki.psychreview.su">CN Psych Ward Wiki</a>. All rights reserved.'
+      copyright: 'Copyright © 2025 <a href="https://psychreview.su/">Psych Review Archives</a>. All rights reserved.'
     },
     
     search: {
@@ -35,7 +35,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/About' },
-      { text: 'Wiki', link: 'Wiki'}
+      { text: 'Wiki', link: '/Wiki/'}
     ],
 
     sidebar: {
