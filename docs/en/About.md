@@ -3,6 +3,8 @@ title: About
 lang: en
 ---
 
+# About
+
 This is a project that documents psych wards in China, covering the following aspects:
 
 - Availability of foreign language consultations
