@@ -14,6 +14,6 @@ hero:
       text: About
       link: /en/About
     - theme: alt
-      text: Project Oral History
+      text: Project Oral History ↗️
       link: https://archives.psychreview.su/
 ---

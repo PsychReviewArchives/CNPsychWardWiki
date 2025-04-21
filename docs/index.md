@@ -14,7 +14,7 @@ hero:
       text: 关于
       link: /About
     - theme: alt
-      text: 口述史项目
+      text: 口述史项目 ↗️
       link: https://archives.psychreview.su/
 ---
 
