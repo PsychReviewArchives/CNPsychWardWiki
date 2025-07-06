@@ -51,6 +51,12 @@ export default defineConfig({
             }
           ]
         },
+        {
+          text: '上海',
+          items: [
+            { text: '上海市精神卫生中心', link: '/Wiki/Shanghai/SMHC' }
+          ]
+        },
       ],
 
       '/en/Wiki': [

@@ -25,7 +25,7 @@ Inpatient HRT availability is subjected to the discretion of your attending doct
 
 ## Inpatient Life, Headquarter
 
-The Headquarter has one hybrid ward, which is Ward 4, 13, 14. If you are hospitalised there, you may leave with the permission of your attending doctor, and with your parents / caregiver's presence. Hybrid ward charges higher rate about 30,000 – 40,000 CNY per month before insurance. For comparison, in regular ward, they charge about 25,000 – 28,000 CNY on first month, 15,000 – 20,000 CNY per month on subsequent months.
+The Headquarter has one hybrid ward, which is Ward 4, 13, 14. If you are hospitalised there, you may leave with the permission of your attending doctor, and with your parents / carer's presence. Hybrid ward charges higher rate about 30,000 – 40,000 CNY per month before insurance. For comparison, in regular ward, they charge about 25,000 – 28,000 CNY on first month, 15,000 – 20,000 CNY per month on subsequent months.
 
 In the first fortnight of stay, the right to communicate [ie visitation, telephone] is not granted.
 
