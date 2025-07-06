@@ -50,4 +50,4 @@ Lights are out on 20:30 (however, there is switch in the room). A room contains 
 
 Showering happens twice in a week during June to October, and for the rest, once a week. In Xuhui campus, two people will use a shower head at the same time in a room; in Minhang campus, there is a shower room with 8 shower heads.
 
-On restraining, male individual are more likely not given with toilet access (that they must excrete on the bed); longest known restraint time is 3 weeks continuous, and the usual maximum is 2 weeks. Usually, during the day, person is restrained on an interrogation chair.
+On restraining, male individual are more likely not given with toilet access (that they must excrete on the bed); longest known restraint time is 4 weeks continuous, and the usual maximum is 2 weeks. Usually, during the day, person is restrained on an interrogation chair.
